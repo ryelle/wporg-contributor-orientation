@@ -1,4 +1,4 @@
-# Contritbutor Orientation Block
+# Contributor Orientation Block
 
 A block to help contributors learn where they'll fit best. 
 
