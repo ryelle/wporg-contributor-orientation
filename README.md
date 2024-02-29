@@ -11,7 +11,7 @@ A block to help contributors learn where they'll fit best.
 - [Node](https://nodejs.org/en)
 - [nvm](https://github.com/nvm-sh/nvm) (optional)
 
-This uses wp-env to set up a dev enviroment, and wp-scripts to build the block assets.
+This uses wp-env to set up a dev environment, and wp-scripts to build the block assets.
 
 1. Install the dependencies
     ```bash
@@ -27,8 +27,8 @@ This uses wp-env to set up a dev enviroment, and wp-scripts to build the block a
     ```bash
     npm run wp-env start
     ```
-4. Log in at [localhost:8888/wp-admin/](http://localhost:8888/wp-admin/), check that the "Contritbutor Orientation Block" plugin is active
-5. Create a new page, and add the "Contritbutor Orientation Block" block
+4. Log in at [localhost:8888/wp-admin/](http://localhost:8888/wp-admin/), check that the "Contributor Orientation Block" plugin is active
+5. Create a new page, and add the "Contributor Orientation Block" block
 
 You should now be able to test the block on the page you've just created.
 
